@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github
+This section has moved here:
 
 ### Advanced Configuration
 
