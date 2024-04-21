@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Analyzing the 
 
-This section has moved here:
+
 
 ### Making a Progressive Web App
 
